@@ -1,0 +1,13 @@
+{
+  "name": "bible-verse-overlay",
+  "version": "1.0.0",
+  "description": "Serverless function to overlay text on images",
+  "main": "api/overlay.js",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "node-fetch": "^2.7.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
